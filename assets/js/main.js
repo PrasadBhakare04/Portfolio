@@ -37,7 +37,7 @@ const projectbox2 = document.querySelector('#scd');
 const projectbox3 = document.querySelector('#thd');
 
 projectbox1.addEventListener('click', function () {
-  window.location.href = 'https://prasadbhakare04.github.io/Score-Keeper/';
+  window.location.href = 'https://campsites-a3ug.onrender.com/';
 });
 
 projectbox2.addEventListener('click', function () {
@@ -146,4 +146,5 @@ function scrollActive() {
     }
   })
 }
+
 window.addEventListener('scroll', scrollActive)
