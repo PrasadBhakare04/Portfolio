@@ -45,7 +45,7 @@ projectbox2.addEventListener('click', function () {
 });
 
 projectbox3.addEventListener('click', function () {
-  window.location.href = 'https://github.com/PrasadBhakare04?tab=repositories';
+  window.location.href = 'https://github.com/PrasadBhakare04/Projects/';
 });
 
 const Price = document.querySelector('#Price');
